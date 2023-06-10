@@ -1,4 +1,8 @@
-# Moppy2
+# Moppy2 - Standalone
+
+Target of this fork is the combination with https://github.com/MajicDesigns/MD_MIDIFile to make a standalone library for ESP32 with SD-Card so a computer is not required. Let´s see if I can accomplish that :). To be continued...
+
+
 The evolution of the Musical flOPPY controller.
 
 Everything* you need to make your own musical floppy drives!
